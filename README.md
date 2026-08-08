@@ -1,6 +1,4 @@
 # ThreatIntel-SOAR-Automation
-# Open-Source Threat Intelligence (OSINT) Automation Framework
-
 ## Project Overview
 This project addresses a critical operational bottleneck in Security Operations Centers (SOC): the manual triage of Indicators of Compromise (IoCs). This repository contains a production-ready Python automation engine that ingests suspicious network logs, communicates asynchronously with global threat evaluation APIs (AbuseIPDB), analyzes raw risk variables, and outputs structured intelligence matrix reports.
 
